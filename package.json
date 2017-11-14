@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "copyfonts": "cpx \"node_modules/uswds/src/fonts/*\" ./src/fonts/",
-    "copyimages": "cpx \"node_modules/uswds/src/img\" ./src/img/",
+    "copyimages": "cpx \"node_modules/uswds/src/img/*\" ./src/assets/img/",
     "copyjs": "cpx \"node_modules/uswds/dist/js/uswds.js\" ./src/js"
   },
   "private": true,
