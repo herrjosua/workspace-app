@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
+=======
+>>>>>>> 404b30d48993b504804d7fee794533cd38822e31
 # Logs
 logs
 *.log
@@ -142,3 +145,4 @@ fabric.properties
 .idea/modules.xml
 .idea/workspace-app.iml
 .idea/workspace.xml
+.idea/
